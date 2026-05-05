@@ -1,0 +1,15 @@
+[system]
+size = 5
+
+[postgres]
+host = "127.0.0.1" # change it
+port = 5432 
+
+password = "pass123456789" # change it
+username = "postgres" # change it
+
+dbname = "newsdb" # change it
+
+[discord]
+activate = true 
+webhook_url = "https://discord.com/api/webhooks/1145141919810/abcdefghijklmnopqrstuvwxyz1234567890" # change it
