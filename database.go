@@ -79,11 +79,12 @@ func openPostgres(cfg postgresConfig) (*sql.DB, error) {
 //   - detail: 保存対象のReuters記事詳細
 //
 // 返り値:
+//   - newsArticleRecord: INSERTした記事レコード
 //   - error: 保存に失敗した場合のエラー。成功時はnil
-func saveArticleToDB(db *sql.DB, detail articleDetail) error {
+func saveArticleToDB(db *sql.DB, detail articleDetail) (newsArticleRecord, error) {
 	record, err := buildNewsArticleRecord(detail)
 	if err != nil {
-		return err
+		return newsArticleRecord{}, err
 	}
 
 	_, err = db.Exec(
@@ -91,24 +92,26 @@ func saveArticleToDB(db *sql.DB, detail articleDetail) error {
 			provider,
 			article_id,
 			revision_id,
+			canonical_id,
 			published_at,
 			updated_at,
 			headline,
 			body_text
-		) VALUES ($1, $2, $3, $4, $5, $6, $7)`,
+		) VALUES ($1, $2, $3, $4, $5, $6, $7, $8)`,
 		record.Provider,
 		record.ArticleID,
 		record.RevisionID,
+		record.CanonicalID,
 		record.PublishedAt,
 		record.UpdatedAt,
 		record.Headline,
 		record.BodyText,
 	)
 	if err != nil {
-		return fmt.Errorf("news_articles への INSERT に失敗しました: %w", err)
+		return newsArticleRecord{}, fmt.Errorf("news_articles への INSERT に失敗しました: %w", err)
 	}
 
-	return nil
+	return record, nil
 }
 
 // articleExistsInDB は既に保存済みの記事を重複登録しないように、記事IDとリビジョンIDが一致するReuters記事の存在有無を判定します。

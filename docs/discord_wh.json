@@ -1,0 +1,9 @@
+{
+  "embeds": [
+    {
+      "title": "{headline}",
+      "url": "https://jp.reuters.com{canonical_id}",
+      "color": 16744448
+    }
+  ]
+}

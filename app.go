@@ -14,6 +14,7 @@ import (
 //   - Reutersのセクション記事一覧を取得する
 //   - 保存済み記事の詳細取得とDB保存をスキップする
 //   - 未保存記事の詳細を取得してDBへ保存する
+//   - Discord通知が有効な場合はDB保存後にWebhookへPOSTする
 //   - 保存件数とスキップ件数を標準出力へ表示する
 //
 // 引数:
@@ -66,8 +67,13 @@ func run() error {
 			return fmt.Errorf("article detail の取得に失敗しました: index=%d id=%s err=%w", index, article.ID, err)
 		}
 
-		if err := saveArticleToDB(db, detail); err != nil {
+		record, err := saveArticleToDB(db, detail)
+		if err != nil {
 			return fmt.Errorf("article db の保存に失敗しました: index=%d id=%s err=%w", index, article.ID, err)
+		}
+
+		if err := notifyDiscordArticleSaved(client, cfg.Discord, record); err != nil {
+			return fmt.Errorf("discord 通知に失敗しました: index=%d id=%s err=%w", index, article.ID, err)
 		}
 
 		fmt.Printf("[%d/%d]\n", index+1, len(articles))

@@ -41,6 +41,7 @@ func loadConfig(path string) (appConfig, error) {
 //   - PostgreSQLポートが1以上であることを確認する
 //   - PostgreSQLユーザー名が設定されていることを確認する
 //   - PostgreSQLデータベース名が設定されていることを確認する
+//   - Discord通知が有効な場合はWebhook URLが設定されていることを確認する
 //
 // 引数:
 //   - cfg: 検証対象のアプリケーション設定
@@ -66,6 +67,10 @@ func validateConfig(cfg appConfig) error {
 
 	if strings.TrimSpace(cfg.Postgres.DBName) == "" {
 		return fmt.Errorf("config.toml の postgres.dbname が未設定です")
+	}
+
+	if cfg.Discord.Activate && strings.TrimSpace(cfg.Discord.WebhookURL) == "" {
+		return fmt.Errorf("config.toml の discord.webhook_url が未設定です")
 	}
 
 	return nil

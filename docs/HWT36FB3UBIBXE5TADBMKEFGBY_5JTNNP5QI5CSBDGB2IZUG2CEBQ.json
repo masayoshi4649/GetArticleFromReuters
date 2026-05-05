@@ -1,0 +1,706 @@
+{
+    "statusCode": 200,
+    "message": "Success",
+    "result": {
+        "id": "HWT36FB3UBIBXE5TADBMKEFGBY",
+        "revision_id": "5JTNNP5QI5CSBDGB2IZUG2CEBQ",
+        "canonical_url": "/world/ukraine/HWT36FB3UBIBXE5TADBMKEFGBY-2026-05-05/",
+        "website": "reuters-japan",
+        "web": "ゼレンスキー氏が中東バーレーン訪問、安全保障の知見アピール",
+        "native": "ゼレンスキー氏が中東バーレーン訪問、安全保障の知見アピール",
+        "published": true,
+        "published_time": "2026-05-05T14:12:34.871Z",
+        "article_type": "Standard",
+        "content_code": "metered",
+        "source": {
+            "name": "Reuters",
+            "original_name": "ロイター編集"
+        },
+        "additional_properties": {
+            "article_properties": {
+                "place": "［キーウ　５日　ロイター］"
+            }
+        },
+        "properties": {
+            "id": "NXFCEHZA5ZIGTMDWIVPWEHKNJU"
+        },
+        "dateline": [
+            "［キーウ　５日　ロイター］"
+        ],
+        "language": "ja",
+        "slug": "JA-IRAN-CRISIS/ZELENSKIY-BAHRAIN (UPDATE 1, TV, PIX)",
+        "version": "0.10.11",
+        "shared_url": "/world/ukraine/HWT36FB3UBIBXE5TADBMKEFGBY-2026-05-05/",
+        "created_date": "2026-05-05T14:10:25.397Z",
+        "type": "story",
+        "title": "ゼレンスキー氏が中東バーレーン訪問、安全保障の知見アピール",
+        "basic_headline": "ゼレンスキー氏が中東バーレーン訪問、安全保障の知見アピール",
+        "distributor": "ロイター編集",
+        "description": "ウクライナのゼレンスキー大統領は５日、訪問先の中東バーレーンでド​ローン（小型無人機）を巡る取‌引を提案し、ウクライナの実戦で培われた安全保障の専門知識をアピールした。",
+        "primary_media_type": "image",
+        "primary_tag": {
+            "short_bio": "N2:CWP",
+            "description": "N2:CWP",
+            "slug": "n2-cwp",
+            "text": "CWP",
+            "topic_url": "/tags/n2-cwp/"
+        },
+        "word_count": 6,
+        "read_minutes": 1,
+        "header_controls": {
+            "premium_dek": "Yes",
+            "hero_image_ratio": "16:9",
+            "hero_image_gradient": "None",
+            "hero_image_text_placement": "Bottom dark"
+        },
+        "headlines": {
+            "basic": "ゼレンスキー氏が中東バーレーン訪問、安全保障の知見アピール"
+        },
+        "thumbnail": {
+            "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NT5T5C4GWZMHBKVNUWKSW3RPIM.jpg",
+            "caption": "ウクライナのゼレンスキー大統領と会談するバーレーンのザイヤーニ外相。バーレーン国際空港で４日撮影の提供写真。Bahrain News Agency/Handout via REUTERS ",
+            "type": "image",
+            "resizer_url": "https://www.reuters.com/resizer/v2/NT5T5C4GWZMHBKVNUWKSW3RPIM.jpg?auth=f248b9b13ec9458dfca1478d98b7a48632c7505acf67045aeda0b31eb129e5dc",
+            "location": "MUHARRAQ, Bahrain",
+            "id": "NT5T5C4GWZMHBKVNUWKSW3RPIM",
+            "authors": "BAHRAIN NEWS AGENCY",
+            "alt_text": "ゼレンスキー氏が中東バーレーン訪問、安全保障の知見アピール",
+            "width": 5120,
+            "height": 3414,
+            "subtitle": "ゼレンスキー氏が中東バーレーン訪問、安全保障の知見アピール",
+            "slug": "JA-IRAN-CRISIS-BAHRAIN-UKRAINE",
+            "updated_at": "2026-05-05T14:12:40Z",
+            "company": "Reuters"
+        },
+        "authors": [
+            {
+                "name": "ロイター編集",
+                "thumbnail": {
+                    "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MBIVAJUOONDEBH26VPUYAC3JOE.jpg",
+                    "type": "image",
+                    "resizer_url": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FMBIVAJUOONDEBH26VPUYAC3JOE.jpg?auth=34a97b66b3d4973fd39ea7ee6654c323084cfeade6427c0b176937b92f387c46"
+                },
+                "byline": "ロイター編集",
+                "topic_url": "/authors/%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC%E7%B7%A8%E9%9B%86/"
+            }
+        ],
+        "display_time": "2026-05-05T14:12:34.871Z",
+        "updated_time": "2026-05-05T14:13:44.333Z",
+        "excerpt": {
+            "content": "ウクライナのゼレンスキー大統領は５日、訪問先の中東バーレーンでド​ローン（小型無人機）を巡る取‌引を提案し、ウクライナの実戦で培われた安全保障の専門知識をアピールした。",
+            "type": "paragraph"
+        },
+        "content_elements": [
+            {
+                "content": "ウクライナのゼレンスキー大統領は５日、訪問先の中東バーレーンでド​ローン（小型無人機）を巡る取‌引を提案し、ウクライナの実戦で培われた安全保障の専門知識をアピールした。",
+                "type": "paragraph"
+            },
+            {
+                "content": "ゼレン​スキー氏はＸに、バーレーン\n のハマド国王\n と、バ​ーレーンやホルムズ海峡に対するイ⁠ランの攻撃について協議したと投稿。「​わが国はほぼ毎日、同様のテロ攻撃​に直面しており、全面的な防衛に関する知見がある」とした上で「ウクライナはこの安全保障​に関する専門知識をバーレーンと共​有し、人命保護の強化を支援する用意がある」‌と⁠述べた。両国が取引の詳細を詰めていくことで合意したことも明らかにした。",
+                "type": "paragraph"
+            },
+            {
+                "content": "２月２８日に始まった米・イスラエルによるイラン交​戦以降、ウク​ライナは⁠イランのシャヘド型ドローンの攻撃に苦しむ中東諸国に対​し、自国のドローンと技術​を提供し⁠ている。",
+                "type": "paragraph"
+            },
+            {
+                "content": "ウクライナは既にサウジアラビア、アラブ首長国連邦（ＵＡＥ）、カタールと⁠防衛​協力協定を締結しており、​ロシアが歴史的に強い影響力を持つ中東地域にお​ける外交的地位の強化を目指している。",
+                "type": "paragraph"
+            }
+        ],
+        "promo_items": {
+            "images": [
+                {
+                    "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NT5T5C4GWZMHBKVNUWKSW3RPIM.jpg",
+                    "caption": "ウクライナのゼレンスキー大統領と会談するバーレーンのザイヤーニ外相。バーレーン国際空港で４日撮影の提供写真。Bahrain News Agency/Handout via REUTERS ",
+                    "type": "image",
+                    "resizer_url": "https://www.reuters.com/resizer/v2/NT5T5C4GWZMHBKVNUWKSW3RPIM.jpg?auth=f248b9b13ec9458dfca1478d98b7a48632c7505acf67045aeda0b31eb129e5dc",
+                    "location": "MUHARRAQ, Bahrain",
+                    "id": "NT5T5C4GWZMHBKVNUWKSW3RPIM",
+                    "authors": "BAHRAIN NEWS AGENCY",
+                    "alt_text": "ゼレンスキー氏が中東バーレーン訪問、安全保障の知見アピール",
+                    "width": 5120,
+                    "height": 3414,
+                    "subtitle": "ゼレンスキー氏が中東バーレーン訪問、安全保障の知見アピール",
+                    "slug": "JA-IRAN-CRISIS-BAHRAIN-UKRAINE",
+                    "updated_at": "2026-05-05T14:12:40Z",
+                    "company": "Reuters"
+                }
+            ]
+        },
+        "related_content": {
+            "images": [
+                {
+                    "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NT5T5C4GWZMHBKVNUWKSW3RPIM.jpg",
+                    "caption": "ウクライナのゼレンスキー大統領と会談するバーレーンのザイヤーニ外相。バーレーン国際空港で４日撮影の提供写真。Bahrain News Agency/Handout via REUTERS ",
+                    "type": "image",
+                    "resizer_url": "https://www.reuters.com/resizer/v2/NT5T5C4GWZMHBKVNUWKSW3RPIM.jpg?auth=f248b9b13ec9458dfca1478d98b7a48632c7505acf67045aeda0b31eb129e5dc",
+                    "location": "MUHARRAQ, Bahrain",
+                    "id": "NT5T5C4GWZMHBKVNUWKSW3RPIM",
+                    "authors": "BAHRAIN NEWS AGENCY",
+                    "alt_text": "ゼレンスキー氏が中東バーレーン訪問、安全保障の知見アピール",
+                    "width": 5120,
+                    "height": 3414,
+                    "subtitle": "ゼレンスキー氏が中東バーレーン訪問、安全保障の知見アピール",
+                    "slug": "JA-IRAN-CRISIS-BAHRAIN-UKRAINE",
+                    "updated_at": "2026-05-05T14:12:40Z",
+                    "company": "Reuters"
+                }
+            ]
+        },
+        "taxonomy": {
+            "shared_url": "/world/ukraine/HWT36FB3UBIBXE5TADBMKEFGBY-2026-05-05/",
+            "section": {
+                "id": "/world/ukraine/",
+                "website": "reuters-japan",
+                "name": "ウクライナ情勢",
+                "page_title": "ウクライナ情勢",
+                "parent": {
+                    "id": "/world/",
+                    "website": "reuters-japan",
+                    "name": "ワールド",
+                    "page_title": "ワールド",
+                    "language": "ja",
+                    "template_type": "section",
+                    "type": "section",
+                    "advertising": {
+                        "sponsored": "false",
+                        "sponsor_logo_type": "jp-worldlogo"
+                    }
+                },
+                "language": "ja",
+                "template_type": "section",
+                "type": "section",
+                "advertising": {
+                    "sponsored": "false",
+                    "sponsor_logo_type": "jp-world-ukrainelogo"
+                }
+            },
+            "top_parent_section": {
+                "id": "/world/",
+                "website": "reuters-japan",
+                "name": "ワールド",
+                "page_title": "ワールド",
+                "language": "ja",
+                "template_type": "section",
+                "type": "section",
+                "advertising": {
+                    "sponsored": "false",
+                    "sponsor_logo_type": "jp-worldlogo"
+                }
+            },
+            "parent_section_name": "ワールド",
+            "ads_primary_section": {
+                "id": "/world/ukraine/",
+                "website": "reuters-japan",
+                "name": "ウクライナ情勢",
+                "page_title": "ウクライナ情勢",
+                "parent": {
+                    "id": "/world/",
+                    "website": "reuters-japan",
+                    "name": "ワールド",
+                    "page_title": "ワールド",
+                    "language": "ja",
+                    "template_type": "section",
+                    "type": "section",
+                    "advertising": {
+                        "sponsored": "false",
+                        "sponsor_logo_type": "jp-worldlogo"
+                    }
+                },
+                "language": "ja",
+                "template_type": "section",
+                "type": "section",
+                "advertising": {
+                    "sponsored": "false",
+                    "sponsor_logo_type": "jp-world-ukrainelogo"
+                },
+                "mobile_ad_unit_path": "/4735792/app.reuters/default"
+            },
+            "other_sections": [
+                {
+                    "id": "/world/",
+                    "website": "reuters-japan",
+                    "name": "ワールド",
+                    "page_title": "ワールド",
+                    "language": "ja",
+                    "template_type": "section",
+                    "type": "section",
+                    "advertising": {
+                        "sponsored": "false",
+                        "sponsor_logo_type": "jp-worldlogo"
+                    }
+                },
+                {
+                    "id": "/world/europe/",
+                    "website": "reuters-japan",
+                    "name": "欧州",
+                    "page_title": "欧州",
+                    "language": "ja",
+                    "template_type": "section",
+                    "type": "section",
+                    "advertising": {
+                        "sponsored": "false",
+                        "sponsor_logo_type": "jp-world-europelogo"
+                    }
+                },
+                {
+                    "id": "/world/ukraine/",
+                    "website": "reuters-japan",
+                    "name": "ウクライナ情勢",
+                    "page_title": "ウクライナ情勢",
+                    "parent": {
+                        "id": "/world/",
+                        "website": "reuters-japan",
+                        "name": "ワールド",
+                        "page_title": "ワールド",
+                        "language": "ja",
+                        "template_type": "section",
+                        "type": "section",
+                        "advertising": {
+                            "sponsored": "false",
+                            "sponsor_logo_type": "jp-worldlogo"
+                        }
+                    },
+                    "language": "ja",
+                    "template_type": "section",
+                    "type": "section",
+                    "advertising": {
+                        "sponsored": "false",
+                        "sponsor_logo_type": "jp-world-ukrainelogo"
+                    }
+                },
+                {
+                    "id": "/world/russia/",
+                    "website": "reuters-japan",
+                    "name": "ロシア",
+                    "page_title": "ロシア",
+                    "language": "ja",
+                    "template_type": "section",
+                    "type": "section",
+                    "advertising": {
+                        "sponsored": "false",
+                        "sponsor_logo_type": "jp-world-russialogo"
+                    }
+                },
+                {
+                    "id": "/world/mideast/",
+                    "website": "reuters-japan",
+                    "name": "中東・アフリカ",
+                    "page_title": "中東・アフリカ",
+                    "language": "ja",
+                    "template_type": "section",
+                    "type": "section",
+                    "advertising": {
+                        "sponsored": "false",
+                        "sponsor_logo_type": "jp-world-mideastlogo"
+                    }
+                },
+                {
+                    "id": "/world/security/",
+                    "website": "reuters-japan",
+                    "name": "特集 安全保障問題",
+                    "page_title": "特集 安全保障問題",
+                    "language": "ja",
+                    "template_type": "section",
+                    "type": "section",
+                    "advertising": {
+                        "sponsored": "false",
+                        "sponsor_logo_type": "jp-world-securitylogo"
+                    }
+                },
+                {
+                    "id": "/economy/",
+                    "website": "reuters-japan",
+                    "name": "経済",
+                    "page_title": "経済",
+                    "language": "ja",
+                    "template_type": "section",
+                    "type": "section",
+                    "advertising": {
+                        "sponsored": "false",
+                        "sponsor_logo_type": "jp-economylogo"
+                    }
+                },
+                {
+                    "id": "/ja/",
+                    "website": "reuters-japan",
+                    "name": "日本",
+                    "page_title": "日本",
+                    "can_follow": true,
+                    "language": "ja",
+                    "template_type": "section",
+                    "type": "section",
+                    "advertising": {
+                        "sponsor_logo_type": "staticlogo"
+                    }
+                }
+            ],
+            "tags": [
+                {
+                    "short_bio": "N2:CWP",
+                    "description": "N2:CWP",
+                    "slug": "n2-cwp",
+                    "text": "CWP",
+                    "topic_url": "/tags/n2-cwp/"
+                },
+                {
+                    "short_bio": "N2:DEF",
+                    "description": "N2:DEF",
+                    "slug": "n2-def",
+                    "text": "DEF",
+                    "topic_url": "/tags/n2-def/"
+                },
+                {
+                    "short_bio": "N2:DEFBUY",
+                    "description": "N2:DEFBUY",
+                    "slug": "n2-defbuy",
+                    "text": "DEFBUY",
+                    "topic_url": "/tags/n2-defbuy/"
+                },
+                {
+                    "short_bio": "N2:DIP",
+                    "description": "N2:DIP",
+                    "slug": "n2-dip",
+                    "text": "DIP",
+                    "topic_url": "/tags/n2-dip/"
+                },
+                {
+                    "short_bio": "N2:GEN",
+                    "description": "N2:GEN",
+                    "slug": "n2-gen",
+                    "text": "GEN",
+                    "topic_url": "/tags/n2-gen/"
+                },
+                {
+                    "short_bio": "N2:JFOR",
+                    "description": "N2:JFOR",
+                    "slug": "n2-jfor",
+                    "text": "JFOR",
+                    "topic_url": "/tags/n2-jfor/"
+                },
+                {
+                    "short_bio": "N2:JLN",
+                    "description": "N2:JLN",
+                    "slug": "n2-jln",
+                    "text": "JLN",
+                    "topic_url": "/tags/n2-jln/"
+                },
+                {
+                    "short_bio": "N2:POL",
+                    "description": "N2:POL",
+                    "slug": "n2-pol",
+                    "text": "POL",
+                    "topic_url": "/tags/n2-pol/"
+                },
+                {
+                    "short_bio": "N2:SECUR",
+                    "description": "N2:SECUR",
+                    "slug": "n2-secur",
+                    "text": "SECUR",
+                    "topic_url": "/tags/n2-secur/"
+                },
+                {
+                    "short_bio": "N2:TRN",
+                    "description": "N2:TRN",
+                    "slug": "n2-trn",
+                    "text": "TRN",
+                    "topic_url": "/tags/n2-trn/"
+                },
+                {
+                    "short_bio": "N2:WAR",
+                    "description": "N2:WAR",
+                    "slug": "n2-war",
+                    "text": "WAR",
+                    "topic_url": "/tags/n2-war/"
+                },
+                {
+                    "short_bio": "N2:CEEU",
+                    "description": "N2:CEEU",
+                    "slug": "n2-ceeu",
+                    "text": "CEEU",
+                    "topic_url": "/tags/n2-ceeu/"
+                },
+                {
+                    "short_bio": "N2:SWASIA",
+                    "description": "N2:SWASIA",
+                    "slug": "n2-swasia",
+                    "text": "SWASIA",
+                    "topic_url": "/tags/n2-swasia/"
+                },
+                {
+                    "short_bio": "N2:EUROP",
+                    "description": "N2:EUROP",
+                    "slug": "n2-europ",
+                    "text": "EUROP",
+                    "topic_url": "/tags/n2-europ/"
+                },
+                {
+                    "short_bio": "N2:BH",
+                    "description": "N2:BH",
+                    "slug": "n2-bh",
+                    "text": "BH",
+                    "topic_url": "/tags/n2-bh/"
+                },
+                {
+                    "short_bio": "N2:MEAST",
+                    "description": "N2:MEAST",
+                    "slug": "n2-meast",
+                    "text": "MEAST",
+                    "topic_url": "/tags/n2-meast/"
+                },
+                {
+                    "short_bio": "N2:UA",
+                    "description": "N2:UA",
+                    "slug": "n2-ua",
+                    "text": "UA",
+                    "topic_url": "/tags/n2-ua/"
+                },
+                {
+                    "short_bio": "N2:RU",
+                    "description": "N2:RU",
+                    "slug": "n2-ru",
+                    "text": "RU",
+                    "topic_url": "/tags/n2-ru/"
+                },
+                {
+                    "short_bio": "N2:TGLF",
+                    "description": "N2:TGLF",
+                    "slug": "n2-tglf",
+                    "text": "TGLF",
+                    "topic_url": "/tags/n2-tglf/"
+                },
+                {
+                    "short_bio": "N2:NASIA",
+                    "description": "N2:NASIA",
+                    "slug": "n2-nasia",
+                    "text": "NASIA",
+                    "topic_url": "/tags/n2-nasia/"
+                },
+                {
+                    "short_bio": "N2:EMEA",
+                    "description": "N2:EMEA",
+                    "slug": "n2-emea",
+                    "text": "EMEA",
+                    "topic_url": "/tags/n2-emea/"
+                },
+                {
+                    "short_bio": "N2:ASXPAC",
+                    "description": "N2:ASXPAC",
+                    "slug": "n2-asxpac",
+                    "text": "ASXPAC",
+                    "topic_url": "/tags/n2-asxpac/"
+                },
+                {
+                    "short_bio": "N2:CISC",
+                    "description": "N2:CISC",
+                    "slug": "n2-cisc",
+                    "text": "CISC",
+                    "topic_url": "/tags/n2-cisc/"
+                },
+                {
+                    "short_bio": "N2:EMRG",
+                    "description": "N2:EMRG",
+                    "slug": "n2-emrg",
+                    "text": "EMRG",
+                    "topic_url": "/tags/n2-emrg/"
+                },
+                {
+                    "short_bio": "N2:AE",
+                    "description": "N2:AE",
+                    "slug": "n2-ae",
+                    "text": "AE",
+                    "topic_url": "/tags/n2-ae/"
+                },
+                {
+                    "short_bio": "N2:ASIA",
+                    "description": "N2:ASIA",
+                    "slug": "n2-asia",
+                    "text": "ASIA",
+                    "topic_url": "/tags/n2-asia/"
+                },
+                {
+                    "short_bio": "N2:EEU",
+                    "description": "N2:EEU",
+                    "slug": "n2-eeu",
+                    "text": "EEU",
+                    "topic_url": "/tags/n2-eeu/"
+                },
+                {
+                    "short_bio": "DEST:NOJPZTM",
+                    "description": "DEST:NOJPZTM",
+                    "slug": "dest-nojpztm",
+                    "text": "DEST:NOJPZTM",
+                    "topic_url": "/tags/dest-nojpztm/"
+                },
+                {
+                    "short_bio": "DEST:NOJPTPM",
+                    "description": "DEST:NOJPTPM",
+                    "slug": "dest-nojptpm",
+                    "text": "DEST:NOJPTPM",
+                    "topic_url": "/tags/dest-nojptpm/"
+                },
+                {
+                    "short_bio": "DEST:NOJPWDM",
+                    "description": "DEST:NOJPWDM",
+                    "slug": "dest-nojpwdm",
+                    "text": "DEST:NOJPWDM",
+                    "topic_url": "/tags/dest-nojpwdm/"
+                }
+            ],
+            "n2": [
+                {
+                    "code": "CWP",
+                    "description": "N2:CWP",
+                    "topic_url": "/tags/n2-cwp/"
+                },
+                {
+                    "code": "DEF",
+                    "description": "N2:DEF",
+                    "topic_url": "/tags/n2-def/"
+                },
+                {
+                    "code": "DEFBUY",
+                    "description": "N2:DEFBUY",
+                    "topic_url": "/tags/n2-defbuy/"
+                },
+                {
+                    "code": "DIP",
+                    "description": "N2:DIP",
+                    "topic_url": "/tags/n2-dip/"
+                },
+                {
+                    "code": "GEN",
+                    "description": "N2:GEN",
+                    "topic_url": "/tags/n2-gen/"
+                },
+                {
+                    "code": "JFOR",
+                    "description": "N2:JFOR",
+                    "topic_url": "/tags/n2-jfor/"
+                },
+                {
+                    "code": "JLN",
+                    "description": "N2:JLN",
+                    "topic_url": "/tags/n2-jln/"
+                },
+                {
+                    "code": "POL",
+                    "description": "N2:POL",
+                    "topic_url": "/tags/n2-pol/"
+                },
+                {
+                    "code": "SECUR",
+                    "description": "N2:SECUR",
+                    "topic_url": "/tags/n2-secur/"
+                },
+                {
+                    "code": "TRN",
+                    "description": "N2:TRN",
+                    "topic_url": "/tags/n2-trn/"
+                },
+                {
+                    "code": "WAR",
+                    "description": "N2:WAR",
+                    "topic_url": "/tags/n2-war/"
+                },
+                {
+                    "code": "CEEU",
+                    "description": "N2:CEEU",
+                    "topic_url": "/tags/n2-ceeu/"
+                },
+                {
+                    "code": "SWASIA",
+                    "description": "N2:SWASIA",
+                    "topic_url": "/tags/n2-swasia/"
+                },
+                {
+                    "code": "EUROP",
+                    "description": "N2:EUROP",
+                    "topic_url": "/tags/n2-europ/"
+                },
+                {
+                    "code": "BH",
+                    "description": "N2:BH",
+                    "topic_url": "/tags/n2-bh/"
+                },
+                {
+                    "code": "MEAST",
+                    "description": "N2:MEAST",
+                    "topic_url": "/tags/n2-meast/"
+                },
+                {
+                    "code": "UA",
+                    "description": "N2:UA",
+                    "topic_url": "/tags/n2-ua/"
+                },
+                {
+                    "code": "RU",
+                    "description": "N2:RU",
+                    "topic_url": "/tags/n2-ru/"
+                },
+                {
+                    "code": "TGLF",
+                    "description": "N2:TGLF",
+                    "topic_url": "/tags/n2-tglf/"
+                },
+                {
+                    "code": "NASIA",
+                    "description": "N2:NASIA",
+                    "topic_url": "/tags/n2-nasia/"
+                },
+                {
+                    "code": "EMEA",
+                    "description": "N2:EMEA",
+                    "topic_url": "/tags/n2-emea/"
+                },
+                {
+                    "code": "ASXPAC",
+                    "description": "N2:ASXPAC",
+                    "topic_url": "/tags/n2-asxpac/"
+                },
+                {
+                    "code": "CISC",
+                    "description": "N2:CISC",
+                    "topic_url": "/tags/n2-cisc/"
+                },
+                {
+                    "code": "EMRG",
+                    "description": "N2:EMRG",
+                    "topic_url": "/tags/n2-emrg/"
+                },
+                {
+                    "code": "AE",
+                    "description": "N2:AE",
+                    "topic_url": "/tags/n2-ae/"
+                },
+                {
+                    "code": "ASIA",
+                    "description": "N2:ASIA",
+                    "topic_url": "/tags/n2-asia/"
+                },
+                {
+                    "code": "EEU",
+                    "description": "N2:EEU",
+                    "topic_url": "/tags/n2-eeu/"
+                }
+            ],
+            "ad_topics": [
+                "DeathInjrConft",
+                "pol",
+                "DeathInjrConft"
+            ],
+            "ad_unit_path": "/4735792/jp.reuters.com/world/ukraine/article",
+            "mobile_ad_unit_path": "/4735792/app.reuters/default",
+            "keywords": [
+                "JA",
+                "IRAN",
+                "CRISIS/ZELENSKIY",
+                "BAHRAIN (UPDATE 1, TV, PIX)"
+            ],
+            "usn": "L6N41I0SB"
+        },
+        "response_time": 1777992641539
+    },
+    "_id": "29823999530283be22f35656e5d5d4cf36bdcc6224abde54ac704c933c550c8f"
+}

@@ -54,6 +54,7 @@ type contentElement struct {
 type appConfig struct {
 	System   systemConfig   `toml:"system"`
 	Postgres postgresConfig `toml:"postgres"`
+	Discord  discordConfig  `toml:"discord"`
 }
 
 // systemConfig はアプリケーション動作に関する設定を表します。
@@ -70,11 +71,18 @@ type postgresConfig struct {
 	DBName   string `toml:"dbname"`
 }
 
+// discordConfig はDiscord Webhook通知に必要な設定を表します。
+type discordConfig struct {
+	Activate   bool   `toml:"activate"`
+	WebhookURL string `toml:"webhook_url"`
+}
+
 // newsArticleRecord はnews_articlesテーブルへ保存する記事レコードを表します。
 type newsArticleRecord struct {
 	Provider    string
 	ArticleID   string
 	RevisionID  string
+	CanonicalID string
 	PublishedAt time.Time
 	UpdatedAt   any
 	Headline    string

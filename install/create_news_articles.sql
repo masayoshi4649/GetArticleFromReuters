@@ -3,6 +3,7 @@ CREATE TABLE news_articles (
 
     article_id TEXT NOT NULL,
     revision_id TEXT NOT NULL,
+    canonical_id TEXT NOT NULL,
 
     published_at TIMESTAMPTZ NOT NULL,
     updated_at TIMESTAMPTZ,

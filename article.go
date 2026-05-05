@@ -125,7 +125,7 @@ func parseOptionalTime(fieldName string, value string) (any, error) {
 // 機能:
 //   - published_timeを必須日時として解析する
 //   - updated_timeを任意日時として解析する
-//   - 記事ID、リビジョンID、見出し、本文を整形する
+//   - 記事ID、リビジョンID、canonical ID、見出し、本文を整形する
 //   - DB保存に必要な必須項目が存在することを確認する
 //
 // 引数:
@@ -149,6 +149,7 @@ func buildNewsArticleRecord(detail articleDetail) (newsArticleRecord, error) {
 		Provider:    providerReuters,
 		ArticleID:   strings.TrimSpace(detail.ID),
 		RevisionID:  strings.TrimSpace(detail.RevisionID),
+		CanonicalID: strings.TrimSpace(detail.CanonicalURL),
 		PublishedAt: publishedAt,
 		UpdatedAt:   updatedAt,
 		Headline:    strings.TrimSpace(detail.Title),
@@ -161,6 +162,10 @@ func buildNewsArticleRecord(detail articleDetail) (newsArticleRecord, error) {
 
 	if record.RevisionID == "" {
 		return newsArticleRecord{}, fmt.Errorf("revision_id に対応する result.revision_id が未設定です")
+	}
+
+	if record.CanonicalID == "" {
+		return newsArticleRecord{}, fmt.Errorf("canonical_id に対応する result.canonical_url が未設定です")
 	}
 
 	if record.Headline == "" {
